@@ -7,17 +7,15 @@ import Layout3 from "./components/Layout3/Layout3";
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Navigations />}>
-          <Route index element={<Layout1 />} />
-          <Route path="layout1" element={<Layout1 />} />
-          <Route path="layout2" element={<Layout2 />} />
-          <Route path="layout3" element={<Layout3 />} />
-        </Route>
-        {/* <Navigations /> */}
-      </Routes>
-    </BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Navigations />}>
+        <Route index element={<Layout1 />} />
+        <Route path="layout1" element={<Layout1 />} />
+        <Route path="layout2" element={<Layout2 />} />
+        <Route path="layout3" element={<Layout3 />} />
+      </Route>
+      {/* <Navigations /> */}
+    </Routes>
   );
 }
 
