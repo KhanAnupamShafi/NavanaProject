@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.71d3825f.css",
-    "main.js": "/static/js/main.a49cbe23.js",
-    "index.html": "/index.html",
-    "main.71d3825f.css.map": "/static/css/main.71d3825f.css.map",
-    "main.a49cbe23.js.map": "/static/js/main.a49cbe23.js.map"
+    "main.css": "/NavanaProject/static/css/main.71d3825f.css",
+    "main.js": "/NavanaProject/static/js/main.5141ad2b.js",
+    "index.html": "/NavanaProject/index.html",
+    "main.71d3825f.css.map": "/NavanaProject/static/css/main.71d3825f.css.map",
+    "main.5141ad2b.js.map": "/NavanaProject/static/js/main.5141ad2b.js.map"
   },
   "entrypoints": [
     "static/css/main.71d3825f.css",
-    "static/js/main.a49cbe23.js"
+    "static/js/main.5141ad2b.js"
   ]
 }
